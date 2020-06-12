@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "Zyllem",
+      "websiteUrl": "https://www.zyllem.com/",
+      "description": "Zyllem Enterprise lets you manage and operate your entire distribution network, consisting of your own assets and partnerships, in one platform.",
+      "logo": "https://static.wixstatic.com/media/15e42d_92ebfc9a2c37467ba65d2117dc5b9fa4~mv2_d_3850_1775_s_2.png/v1/fill/w_194,h_79,al_c,q_85,usm_0.66_1.00_0.01/15e42d_92ebfc9a2c37467ba65d2117dc5b9fa4~mv2_d_3850_1775_s_2.webp",
+      "publicUrl": null,
+      "ngVersions": {
+        "angular": true,
+        "angularjs": false,
+        "ionic": false
+      }
+    }
+  ]
+}
