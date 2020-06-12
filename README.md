@@ -10,7 +10,7 @@ Follow the format below to add the JSON object.
 
 - `name`: Company/organization name (required)
 - `websiteUrl`: URL of company/organization (required)
-- `description`: Description of company/organization (about 1 sentence) (required)
+- `description`: Description of company/organization (about one sentence) (required)
 - `logo`: Company/organization logo image URL (optional)
 - `publicUrl`: Public URL of the service or product using Angular (optional)
 - `ngVersions`: Version of Angular used: (Required)
