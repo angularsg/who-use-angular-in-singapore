@@ -2,6 +2,8 @@
 
 The list of companies who use Angular/AngularJS in Singapore.
 
+https://who-use-angular-in-singapore.netlify.app/
+
 ## Add your company!
 
 If you are using Angular and wanted to show it to the world, submit a pull request to edit the [`src/data/organizations.json`][organizations] file.
